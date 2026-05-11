@@ -24,9 +24,7 @@ public class DeleteUrlsFunction
         _logger.LogInformation("Cleanup job started");
 
         var oldUrls = await _db.ShortUrls
-            .Where(x =>
-                x.IsPrivate &&
-                x.CreatedAt < DateTime.UtcNow.AddHours(-1))
+            .Where(x => x.CreatedAt < DateTime.UtcNow.AddHours(-1))
             .ToListAsync();
 
         if (oldUrls.Any())
