@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Company.TinyUrlCleanupFunction": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 0",
+      "launchBrowser": false
+    }
+  }
+}

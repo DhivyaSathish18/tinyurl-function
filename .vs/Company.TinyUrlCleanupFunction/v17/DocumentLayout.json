@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dell\\source\\repos\\Company.TinyUrlCleanupFunction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{463744AE-C73C-45EE-A491-F60B2AF90CE1}|Company.TinyUrlCleanupFunction\\Company.TinyUrlCleanupFunction.csproj|c:\\users\\dell\\source\\repos\\company.tinyurlcleanupfunction\\company.tinyurlcleanupfunction\\deleteurlsfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463744AE-C73C-45EE-A491-F60B2AF90CE1}|Company.TinyUrlCleanupFunction\\Company.TinyUrlCleanupFunction.csproj|solutionrelative:company.tinyurlcleanupfunction\\deleteurlsfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463744AE-C73C-45EE-A491-F60B2AF90CE1}|Company.TinyUrlCleanupFunction\\Company.TinyUrlCleanupFunction.csproj|c:\\users\\dell\\source\\repos\\company.tinyurlcleanupfunction\\company.tinyurlcleanupfunction\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463744AE-C73C-45EE-A491-F60B2AF90CE1}|Company.TinyUrlCleanupFunction\\Company.TinyUrlCleanupFunction.csproj|solutionrelative:company.tinyurlcleanupfunction\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463744AE-C73C-45EE-A491-F60B2AF90CE1}|Company.TinyUrlCleanupFunction\\Company.TinyUrlCleanupFunction.csproj|c:\\users\\dell\\source\\repos\\company.tinyurlcleanupfunction\\company.tinyurlcleanupfunction\\models\\shorturl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463744AE-C73C-45EE-A491-F60B2AF90CE1}|Company.TinyUrlCleanupFunction\\Company.TinyUrlCleanupFunction.csproj|solutionrelative:company.tinyurlcleanupfunction\\models\\shorturl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463744AE-C73C-45EE-A491-F60B2AF90CE1}|Company.TinyUrlCleanupFunction\\Company.TinyUrlCleanupFunction.csproj|c:\\users\\dell\\source\\repos\\company.tinyurlcleanupfunction\\company.tinyurlcleanupfunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463744AE-C73C-45EE-A491-F60B2AF90CE1}|Company.TinyUrlCleanupFunction\\Company.TinyUrlCleanupFunction.csproj|solutionrelative:company.tinyurlcleanupfunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463744AE-C73C-45EE-A491-F60B2AF90CE1}|Company.TinyUrlCleanupFunction\\Company.TinyUrlCleanupFunction.csproj|c:\\users\\dell\\source\\repos\\company.tinyurlcleanupfunction\\company.tinyurlcleanupfunction\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{463744AE-C73C-45EE-A491-F60B2AF90CE1}|Company.TinyUrlCleanupFunction\\Company.TinyUrlCleanupFunction.csproj|solutionrelative:company.tinyurlcleanupfunction\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463744AE-C73C-45EE-A491-F60B2AF90CE1}|Company.TinyUrlCleanupFunction\\Company.TinyUrlCleanupFunction.csproj|c:\\users\\dell\\source\\repos\\company.tinyurlcleanupfunction\\company.tinyurlcleanupfunction\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{463744AE-C73C-45EE-A491-F60B2AF90CE1}|Company.TinyUrlCleanupFunction\\Company.TinyUrlCleanupFunction.csproj|solutionrelative:company.tinyurlcleanupfunction\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463744AE-C73C-45EE-A491-F60B2AF90CE1}|Company.TinyUrlCleanupFunction\\Company.TinyUrlCleanupFunction.csproj|c:\\users\\dell\\source\\repos\\company.tinyurlcleanupfunction\\company.tinyurlcleanupfunction\\company.tinyurlcleanupfunction.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{463744AE-C73C-45EE-A491-F60B2AF90CE1}|Company.TinyUrlCleanupFunction\\Company.TinyUrlCleanupFunction.csproj|solutionrelative:company.tinyurlcleanupfunction\\company.tinyurlcleanupfunction.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShortUrl.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Company.TinyUrlCleanupFunction\\Company.TinyUrlCleanupFunction\\Models\\ShortUrl.cs",
+              "RelativeDocumentMoniker": "Company.TinyUrlCleanupFunction\\Models\\ShortUrl.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Company.TinyUrlCleanupFunction\\Company.TinyUrlCleanupFunction\\Models\\ShortUrl.cs",
+              "RelativeToolTip": "Company.TinyUrlCleanupFunction\\Models\\ShortUrl.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T07:05:25.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Company.TinyUrlCleanupFunction.csproj",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Company.TinyUrlCleanupFunction\\Company.TinyUrlCleanupFunction\\Company.TinyUrlCleanupFunction.csproj",
+              "RelativeDocumentMoniker": "Company.TinyUrlCleanupFunction\\Company.TinyUrlCleanupFunction.csproj",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Company.TinyUrlCleanupFunction\\Company.TinyUrlCleanupFunction\\Company.TinyUrlCleanupFunction.csproj",
+              "RelativeToolTip": "Company.TinyUrlCleanupFunction\\Company.TinyUrlCleanupFunction.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-11T07:04:53.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Company.TinyUrlCleanupFunction\\Company.TinyUrlCleanupFunction\\Program.cs",
+              "RelativeDocumentMoniker": "Company.TinyUrlCleanupFunction\\Program.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Company.TinyUrlCleanupFunction\\Company.TinyUrlCleanupFunction\\Program.cs",
+              "RelativeToolTip": "Company.TinyUrlCleanupFunction\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T06:59:45.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Company.TinyUrlCleanupFunction\\Company.TinyUrlCleanupFunction\\local.settings.json",
+              "RelativeDocumentMoniker": "Company.TinyUrlCleanupFunction\\local.settings.json",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Company.TinyUrlCleanupFunction\\Company.TinyUrlCleanupFunction\\local.settings.json",
+              "RelativeToolTip": "Company.TinyUrlCleanupFunction\\local.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-11T06:59:42.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Company.TinyUrlCleanupFunction\\Company.TinyUrlCleanupFunction\\data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Company.TinyUrlCleanupFunction\\data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Company.TinyUrlCleanupFunction\\Company.TinyUrlCleanupFunction\\data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Company.TinyUrlCleanupFunction\\data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T07:03:40.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeleteUrlsFunction.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Company.TinyUrlCleanupFunction\\Company.TinyUrlCleanupFunction\\DeleteUrlsFunction.cs",
+              "RelativeDocumentMoniker": "Company.TinyUrlCleanupFunction\\DeleteUrlsFunction.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Company.TinyUrlCleanupFunction\\Company.TinyUrlCleanupFunction\\DeleteUrlsFunction.cs",
+              "RelativeToolTip": "Company.TinyUrlCleanupFunction\\DeleteUrlsFunction.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwB0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T07:07:38.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Company.TinyUrlCleanupFunction\\Company.TinyUrlCleanupFunction\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Company.TinyUrlCleanupFunction\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Company.TinyUrlCleanupFunction\\Company.TinyUrlCleanupFunction\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Company.TinyUrlCleanupFunction\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-11T07:15:59.749Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
