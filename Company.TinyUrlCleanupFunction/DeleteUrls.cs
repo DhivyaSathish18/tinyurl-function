@@ -6,20 +6,20 @@ using TinyUrlCleanupFunction.Data;
 
 namespace Company.TinyUrlCleanupFunction;
 
-public class DeleteUrlsFunction
+public class DeleteUrls
 {
     private readonly ILogger _logger;
+
     private readonly AppDbContext _db;
 
-    public DeleteUrlsFunction(ILoggerFactory loggerFactory, AppDbContext db)
+    public DeleteUrls(ILoggerFactory loggerFactory, AppDbContext db)
     {
-        _logger = loggerFactory.CreateLogger<DeleteUrlsFunction>();
+        _logger = loggerFactory.CreateLogger<DeleteUrls>();
         _db = db;
     }
 
     [Function("DeleteUrls")]
-    public async Task Run(
-            [TimerTrigger("0 0 * * * *")] TimerInfo timer)
+    public async Task Run([TimerTrigger("0 0 * * * *")] TimerInfo myTimer)
     {
         _logger.LogInformation("Cleanup job started");
 
